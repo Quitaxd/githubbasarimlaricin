@@ -1,5 +1,4 @@
 # githubbasarimlaricin.
-!
 fadwa
 d
 a
